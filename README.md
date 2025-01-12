@@ -67,3 +67,9 @@ JavaScript: For adding interactivity and enhancing user experience.
 Responsive Design Frameworks: Optional frameworks like Bootstrap for responsiveness.
 
 Version Control: Using Git and GitHub for managing code and collaboration.
+
+
+
+
+
+
